@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "Grunt task to generate atomdoc",
   "main": "./tasks/index.js",
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "donna": "0.0.8",
     "tello": "0.0.3"
