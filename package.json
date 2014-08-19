@@ -1,0 +1,21 @@
+{
+  "name": "grunt-atomdoc",
+  "version": "0.0.0",
+  "description": "Grunt task to generate atomdoc",
+  "main": "./tasks/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "donna": "0.0.8",
+    "tello": "0.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "coffeelint": "^1.5.6",
+    "grunt-coffeelint": "0.0.13",
+    "grunt-contrib-coffee": "^0.11.1"
+  },
+  "peerDependencies": {
+  }
+}
