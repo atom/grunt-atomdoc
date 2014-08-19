@@ -16,5 +16,6 @@
     "grunt-contrib-coffee": "^0.11.1"
   },
   "peerDependencies": {
+    "grunt": "~0.4.0"
   }
 }
