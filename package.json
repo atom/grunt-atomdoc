@@ -4,6 +4,9 @@
   "description": "Grunt task to generate atomdoc",
   "main": "./tasks/index.js",
   "license": "MIT",
+  "scripts": {
+    "prepublish": "grunt clean lint coffee"
+  },
   "dependencies": {
     "donna": "0.0.8",
     "tello": "0.0.3"
