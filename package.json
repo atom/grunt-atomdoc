@@ -1,6 +1,6 @@
 {
   "name": "grunt-atomdoc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Grunt task to generate atomdoc",
   "main": "./tasks/index.js",
   "license": "MIT",
