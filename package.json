@@ -8,8 +8,8 @@
     "prepublish": "grunt clean lint coffee"
   },
   "dependencies": {
-    "donna": "0.0.10",
-    "tello": "0.0.3"
+    "donna": "~0.0",
+    "tello": "~0.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
