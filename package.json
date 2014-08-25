@@ -8,7 +8,7 @@
     "prepublish": "grunt clean lint coffee"
   },
   "dependencies": {
-    "donna": "0.0.8",
+    "donna": "0.0.10",
     "tello": "0.0.3"
   },
   "devDependencies": {
