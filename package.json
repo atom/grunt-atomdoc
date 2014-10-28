@@ -4,6 +4,10 @@
   "description": "Grunt task to generate atomdoc",
   "main": "./tasks/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/grunt-atomdoc.git"
+  },
   "scripts": {
     "prepublish": "grunt clean lint coffee"
   },
